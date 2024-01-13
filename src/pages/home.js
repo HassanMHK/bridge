@@ -1,9 +1,10 @@
+import Carousel from "../components/carousel";
 
 const Home = () => {
 
     return(
         <>
-            <h1 className="text-black">Home</h1>
+            <Carousel />
         </>
     );
 
